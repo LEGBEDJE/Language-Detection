@@ -73,7 +73,11 @@ The script will output the predicted language.
 
 ### Web Application
 
-This project also includes a simple web application built with Flask that allows you to use the language detection model through a web browser.
+This project also includes a modern and responsive web application built with Flask that allows you to use the language detection model through a web browser.
+
+**Screenshot:**
+
+*Replace this with a screenshot of the web application.*
 
 1.  **Run the Flask app:**
     ```bash
@@ -82,7 +86,7 @@ This project also includes a simple web application built with Flask that allows
 
 2.  **Open your web browser** and navigate to `http://127.0.0.1:5000`.
 
-You will see a simple web page with a text area where you can enter text. The predicted language will be displayed below.
+You will see a stylish web page with a text area where you can enter text. The predicted language will be displayed below.
 
 ## Future Improvements
 
