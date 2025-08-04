@@ -28,7 +28,7 @@ The model is trained on the "Language Detection" dataset from Kaggle. You can fi
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/LEGBEDJE/Language-Detection
     cd language-detection
     ```
 
