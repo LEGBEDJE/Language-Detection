@@ -84,7 +84,7 @@ This project also includes a modern and responsive web application built with Fl
     python app.py
     ```
 
-2.  **Open your web browser** and navigate to `http://127.0.0.1:5000`.
+2.  **Open your web browser** and navigate to `http://127.0.0.1:5000`
 
 You will see a stylish web page with a text area where you can enter text. The predicted language will be displayed below.
 
